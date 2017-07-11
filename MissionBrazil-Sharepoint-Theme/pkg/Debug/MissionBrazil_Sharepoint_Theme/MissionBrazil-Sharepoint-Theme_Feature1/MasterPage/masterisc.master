@@ -1,5 +1,4 @@
 ﻿<%@ Master Language="C#" %>
-
 <%@ Register TagPrefix="SharePoint" Namespace="Microsoft.SharePoint.WebControls" Assembly="Microsoft.SharePoint, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c" %>
 <%@ Register TagPrefix="Utilities" Namespace="Microsoft.SharePoint.Utilities" Assembly="Microsoft.SharePoint, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c" %>
 <%@ Import Namespace="Microsoft.SharePoint" %>
@@ -12,17 +11,16 @@
 <!DOCTYPE html>
 <html lang="<%$Resources:wss,language_value%>" xmlns:o="urn:schemas-microsoft-com:office:office" runat="server" dir="<%$Resources:wss,multipages_direction_dir_value%>" __expr-val-dir="ltr">
 <head runat="server">
-    <meta http-equiv="X-UA-Compatible" content="IE=8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="GENERATOR" content="Microsoft SharePoint" />
     <meta name="progid" content="SharePoint.WebPartPage.Document" />
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta http-equiv="Expires" content="0" />
     <meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
 	<meta name="author" content="Ricardo Coline Arcega">
-	<meta name="description" content="">
-
+	
     <title id="onetidTitle">
         <asp:ContentPlaceHolder ID="PlaceHolderPageTitle" runat="server" />
     </title>
@@ -34,19 +32,18 @@
     <link href="../../_layouts/STYLES/font-awesome.min.css" rel="stylesheet" />
     <link href="../../_layouts/STYLES/magnific-popup.css" rel="stylesheet" />
     <link href="../../_layouts/STYLES/slick.css" rel="stylesheet" />
-
+    <link href="../../_layouts/STYLES/main.css" rel="stylesheet" />
     <link href="../../_layouts/STYLES/responsive.css" rel="stylesheet" />
 
-    
 	<!-- Fonts -->
 	<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900" rel="stylesheet">
 
 	<!-- icons -->
-	<link rel="icon" href="images/ico/favicon.ico"> 
-	<link rel="apple-touch-icon" sizes="144x144" href="../images/ico/apple-touch-icon-precomposed.png">
-	<link rel="apple-touch-icon" sizes="114x114" href="../images/ico/apple-touch-icon-114-precomposed.png">
-	<link rel="apple-touch-icon" sizes="72x72" href="../images/ico/apple-touch-icon-72-precomposed.png">
-	<link rel="apple-touch-icon" sizes="57x57" href="../images/ico/apple-touch-icon-57-precomposed.png">  
+	
+    
+    <link rel="icon" href="../../_layouts/images/MissionBrazil-Sharepoint-Theme/ico/favicon.ico"> 
+    <link rel="apple-touch-icon" sizes="114x114" href="../../_layouts/images/MissionBrazil-Sharepoint-Theme/ico/apple-touch-icon-114-precomposed.png">
+	
 	<!-- icons -->
 
 	<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -1004,5 +1001,18 @@
         </div>
 
     </form>
+
+    <script src="../../_layouts/MissionBrazil-Sharepoint-Theme/jquery.min.js"></script>
+    <script src="../../_layouts/MissionBrazil-Sharepoint-Theme/bootstrap.min.js"></script>
+    <script src="../../_layouts/MissionBrazil-Sharepoint-Theme/jquery.parallax.js"></script>
+    <script src="../../_layouts/MissionBrazil-Sharepoint-Theme/magnific-popup.min.js"></script>
+    <script src="../../_layouts/MissionBrazil-Sharepoint-Theme/inview.min.js"></script>
+    <script src="../../_layouts/MissionBrazil-Sharepoint-Theme/waypoints.min.js"></script>
+    <script src="../../_layouts/MissionBrazil-Sharepoint-Theme/counterup.min.js"></script>
+    <script src="../../_layouts/MissionBrazil-Sharepoint-Theme/slick.min.js"></script>
+	<script src="../../_layouts/MissionBrazil-Sharepoint-Theme/theia-sticky-sidebar.js"></script>
+    <script src="../../_layouts/MissionBrazil-Sharepoint-Theme/main.js"></script>
+
+
 </body>
 </html>

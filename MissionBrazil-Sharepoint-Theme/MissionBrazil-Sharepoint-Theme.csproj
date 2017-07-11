@@ -76,14 +76,39 @@
       <SharePointProjectItemId>{4304f4d3-7727-41f4-b6f4-df5e730d7807}</SharePointProjectItemId>
     </None>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Layouts\MissionBrazil-Sharepoint-Theme\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <Content Include="Features\Feature1\Feature1.Template.xml">
       <DependentUpon>Feature1.feature</DependentUpon>
     </Content>
+    <Content Include="Images\MissionBrazil-Sharepoint-Theme\bg\breadcrumb-bg.jpg" />
+    <Content Include="Images\MissionBrazil-Sharepoint-Theme\bg\parallax-1.jpg" />
+    <Content Include="Images\MissionBrazil-Sharepoint-Theme\bg\parallax-2.jpg" />
+    <Content Include="Images\MissionBrazil-Sharepoint-Theme\bg\parallax-3.jpg" />
+    <Content Include="Images\MissionBrazil-Sharepoint-Theme\bg\parallax-4.jpg" />
+    <Content Include="Images\MissionBrazil-Sharepoint-Theme\bg\parallax-5.jpg" />
+    <Content Include="Images\MissionBrazil-Sharepoint-Theme\bg\slider1.jpg" />
+    <Content Include="Images\MissionBrazil-Sharepoint-Theme\bg\slider2.jpg" />
+    <Content Include="Images\MissionBrazil-Sharepoint-Theme\bg\slider3.jpg" />
+    <Content Include="Images\MissionBrazil-Sharepoint-Theme\ico\apple-touch-icon-114-precomposed.png" />
+    <Content Include="Images\MissionBrazil-Sharepoint-Theme\ico\apple-touch-icon-144-precomposed.png" />
+    <Content Include="Images\MissionBrazil-Sharepoint-Theme\ico\apple-touch-icon-57-precomposed.png" />
+    <Content Include="Images\MissionBrazil-Sharepoint-Theme\ico\apple-touch-icon-72--precomposed.png" />
+    <Content Include="Images\MissionBrazil-Sharepoint-Theme\ico\favicon.ico" />
     <Content Include="Images\MissionBrazil-Sharepoint-Theme\IRM-Annoucements.png" />
+    <Content Include="Images\MissionBrazil-Sharepoint-Theme\logo.png" />
+    <Content Include="Images\MissionBrazil-Sharepoint-Theme\preloader.gif" />
+    <Content Include="Layouts\MissionBrazil-Sharepoint-Theme\bootstrap.min.js" />
+    <Content Include="Layouts\MissionBrazil-Sharepoint-Theme\counterup.min.js" />
+    <Content Include="Layouts\MissionBrazil-Sharepoint-Theme\gmaps.min.js" />
+    <Content Include="Layouts\MissionBrazil-Sharepoint-Theme\inview.min.js" />
+    <Content Include="Layouts\MissionBrazil-Sharepoint-Theme\jquery.min.js" />
+    <Content Include="Layouts\MissionBrazil-Sharepoint-Theme\jquery.parallax.js" />
+    <Content Include="Layouts\MissionBrazil-Sharepoint-Theme\magnific-popup.min.js" />
+    <Content Include="Layouts\MissionBrazil-Sharepoint-Theme\main.js" />
+    <Content Include="Layouts\MissionBrazil-Sharepoint-Theme\slick.min.js" />
+    <Content Include="Layouts\MissionBrazil-Sharepoint-Theme\theia-sticky-sidebar.js" />
+    <Content Include="Layouts\MissionBrazil-Sharepoint-Theme\waypoints.min.js" />
     <Content Include="MasterPage\Elements.xml">
       <SubType>Designer</SubType>
     </Content>
