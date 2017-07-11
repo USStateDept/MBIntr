@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="30276c92-7904-49af-a421-dafcb37d1614" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="MissionBrazil-Sharepoint-Theme.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="Images\MissionBrazil-Sharepoint-Theme\IRM-Annoucements.png" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="MissionBrazil-Sharepoint-Theme_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

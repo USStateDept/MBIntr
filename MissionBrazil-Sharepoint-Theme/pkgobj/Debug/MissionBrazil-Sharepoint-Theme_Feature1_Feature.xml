@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Id="c771e424-dd52-49f2-abe5-b4f06878b0c8" Scope="Web" Title="MissionBrazil-Sharepoint-Theme Feature1">
+  <ElementManifests>
+    <ElementManifest Location="MasterPage\Elements.xml" />
+    <ElementFile Location="MasterPage\masterisc.master" />
+  </ElementManifests>
+</Feature>

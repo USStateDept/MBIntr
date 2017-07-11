@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="30276c92-7904-49af-a421-dafcb37d1614" solutionId="30276c92-7904-49af-a421-dafcb37d1614" resetWebServer="false" name="MissionBrazil_Sharepoint_Theme" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="007d95fa-1fb0-4e64-bc51-afb8f8df5e7d" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="fd46d944-4c2d-47d5-93b3-f5f90ce347d0" />
+    <projectItemReference itemId="02458d88-8f79-4f13-bc21-d574c5f01bde" />
+    <projectItemReference itemId="4304f4d3-7727-41f4-b6f4-df5e730d7807" />
+  </projectItems>
+</package>

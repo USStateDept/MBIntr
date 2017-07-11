@@ -1,0 +1,28 @@
+c:\users\braadmarcegarc\documents\visual studio 2015\Projects\MissionBrazil-Sharepoint-Intranet\MissionBrazil-Sharepoint-Theme\bin\Debug\MissionBrazil-Sharepoint-Theme.dll
+c:\users\braadmarcegarc\documents\visual studio 2015\Projects\MissionBrazil-Sharepoint-Intranet\MissionBrazil-Sharepoint-Theme\bin\Debug\MissionBrazil-Sharepoint-Theme.pdb
+c:\users\braadmarcegarc\documents\visual studio 2015\Projects\MissionBrazil-Sharepoint-Intranet\MissionBrazil-Sharepoint-Theme\bin\Debug\Microsoft.SharePoint.dll
+c:\users\braadmarcegarc\documents\visual studio 2015\Projects\MissionBrazil-Sharepoint-Intranet\MissionBrazil-Sharepoint-Theme\bin\Debug\Microsoft.SharePoint.Search.dll
+c:\users\braadmarcegarc\documents\visual studio 2015\Projects\MissionBrazil-Sharepoint-Intranet\MissionBrazil-Sharepoint-Theme\bin\Debug\Microsoft.Web.CommandUI.dll
+c:\users\braadmarcegarc\documents\visual studio 2015\Projects\MissionBrazil-Sharepoint-Intranet\MissionBrazil-Sharepoint-Theme\bin\Debug\Microsoft.BusinessData.dll
+c:\users\braadmarcegarc\documents\visual studio 2015\Projects\MissionBrazil-Sharepoint-Intranet\MissionBrazil-Sharepoint-Theme\bin\Debug\Microsoft.SharePoint.Security.dll
+c:\users\braadmarcegarc\documents\visual studio 2015\Projects\MissionBrazil-Sharepoint-Intranet\MissionBrazil-Sharepoint-Theme\bin\Debug\Microsoft.SharePoint.xml
+c:\users\braadmarcegarc\documents\visual studio 2015\Projects\MissionBrazil-Sharepoint-Intranet\MissionBrazil-Sharepoint-Theme\bin\Debug\Microsoft.SharePoint.Search.xml
+c:\users\braadmarcegarc\documents\visual studio 2015\Projects\MissionBrazil-Sharepoint-Intranet\MissionBrazil-Sharepoint-Theme\bin\Debug\Microsoft.BusinessData.xml
+c:\users\braadmarcegarc\documents\visual studio 2015\Projects\MissionBrazil-Sharepoint-Intranet\MissionBrazil-Sharepoint-Theme\bin\Debug\Microsoft.SharePoint.Security.xml
+c:\users\braadmarcegarc\documents\visual studio 2015\Projects\MissionBrazil-Sharepoint-Intranet\MissionBrazil-Sharepoint-Theme\obj\Debug\MissionBrazil-Sharepoint-Theme.dll
+c:\users\braadmarcegarc\documents\visual studio 2015\Projects\MissionBrazil-Sharepoint-Intranet\MissionBrazil-Sharepoint-Theme\obj\Debug\MissionBrazil-Sharepoint-Theme.pdb
+C:\Users\braadmarcegarc\documents\visual studio 2015\Projects\MissionBrazil-Sharepoint-Intranet\MissionBrazil-Sharepoint-Theme\obj\Debug\MissionBrazil-Sharepoint-Theme.csprojResolveAssemblyReference.cache
+C:\Users\braadmarcegarc\Source\Repos\MBIntr\MissionBrazil-Sharepoint-Theme\bin\Debug\MissionBrazil-Sharepoint-Theme.dll
+C:\Users\braadmarcegarc\Source\Repos\MBIntr\MissionBrazil-Sharepoint-Theme\bin\Debug\MissionBrazil-Sharepoint-Theme.pdb
+C:\Users\braadmarcegarc\Source\Repos\MBIntr\MissionBrazil-Sharepoint-Theme\bin\Debug\Microsoft.SharePoint.dll
+C:\Users\braadmarcegarc\Source\Repos\MBIntr\MissionBrazil-Sharepoint-Theme\bin\Debug\Microsoft.SharePoint.Search.dll
+C:\Users\braadmarcegarc\Source\Repos\MBIntr\MissionBrazil-Sharepoint-Theme\bin\Debug\Microsoft.Web.CommandUI.dll
+C:\Users\braadmarcegarc\Source\Repos\MBIntr\MissionBrazil-Sharepoint-Theme\bin\Debug\Microsoft.BusinessData.dll
+C:\Users\braadmarcegarc\Source\Repos\MBIntr\MissionBrazil-Sharepoint-Theme\bin\Debug\Microsoft.SharePoint.Security.dll
+C:\Users\braadmarcegarc\Source\Repos\MBIntr\MissionBrazil-Sharepoint-Theme\bin\Debug\Microsoft.SharePoint.xml
+C:\Users\braadmarcegarc\Source\Repos\MBIntr\MissionBrazil-Sharepoint-Theme\bin\Debug\Microsoft.SharePoint.Search.xml
+C:\Users\braadmarcegarc\Source\Repos\MBIntr\MissionBrazil-Sharepoint-Theme\bin\Debug\Microsoft.BusinessData.xml
+C:\Users\braadmarcegarc\Source\Repos\MBIntr\MissionBrazil-Sharepoint-Theme\bin\Debug\Microsoft.SharePoint.Security.xml
+C:\Users\braadmarcegarc\Source\Repos\MBIntr\MissionBrazil-Sharepoint-Theme\obj\Debug\MissionBrazil-Sharepoint-Theme.csprojResolveAssemblyReference.cache
+C:\Users\braadmarcegarc\Source\Repos\MBIntr\MissionBrazil-Sharepoint-Theme\obj\Debug\MissionBrazil-Sharepoint-Theme.dll
+C:\Users\braadmarcegarc\Source\Repos\MBIntr\MissionBrazil-Sharepoint-Theme\obj\Debug\MissionBrazil-Sharepoint-Theme.pdb

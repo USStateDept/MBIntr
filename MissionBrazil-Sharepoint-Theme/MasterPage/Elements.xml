@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="MasterPage" Url="_catalogs/masterpage" RootWebOnly="TRUE" List="116" >
+    <File Path="MasterPage\masterisc.master" Url="masterisc.master" />
+  </Module>
+</Elements>
