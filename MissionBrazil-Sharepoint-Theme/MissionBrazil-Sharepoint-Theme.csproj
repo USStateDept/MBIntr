@@ -87,6 +87,13 @@
     <Content Include="MasterPage\Elements.xml">
       <SubType>Designer</SubType>
     </Content>
+    <Content Include="STYLES\animate.css" />
+    <Content Include="STYLES\bootstrap.min.css" />
+    <Content Include="STYLES\font-awesome.min.css" />
+    <Content Include="STYLES\magnific-popup.css" />
+    <Content Include="STYLES\main.css" />
+    <Content Include="STYLES\responsive.css" />
+    <Content Include="STYLES\slick.css" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>

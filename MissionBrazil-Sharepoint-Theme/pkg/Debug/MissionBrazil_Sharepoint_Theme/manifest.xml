@@ -5,6 +5,13 @@
   </Assemblies>
   <TemplateFiles>
     <TemplateFile Location="Images\MissionBrazil-Sharepoint-Theme\IRM-Annoucements.png" />
+    <TemplateFile Location="LAYOUTS\STYLES\animate.css" />
+    <TemplateFile Location="LAYOUTS\STYLES\bootstrap.min.css" />
+    <TemplateFile Location="LAYOUTS\STYLES\font-awesome.min.css" />
+    <TemplateFile Location="LAYOUTS\STYLES\magnific-popup.css" />
+    <TemplateFile Location="LAYOUTS\STYLES\main.css" />
+    <TemplateFile Location="LAYOUTS\STYLES\responsive.css" />
+    <TemplateFile Location="LAYOUTS\STYLES\slick.css" />
   </TemplateFiles>
   <FeatureManifests>
     <FeatureManifest Location="MissionBrazil-Sharepoint-Theme_Feature1\Feature.xml" />
