@@ -20,7 +20,7 @@
 <body onload="javascript:if (typeof(_spBodyOnLoadWrapper) != 'undefined') _spBodyOnLoadWrapper();">
 	<form runat="server" onsubmit="if (typeof(_spFormOnSubmitWrapper) != 'undefined') {return _spFormOnSubmitWrapper();} else {return true;}">
         	
-        	<WebPartPages:SPWebPartManager id="m" runat="Server"/>
+        	<WebPartPages:SPWebPartManager id="m" runat="Server"/>z
         <asp:ContentPlaceHolder id="PlaceHolderLeftActions" runat="server"></asp:ContentPlaceHolder>
         <asp:ContentPlaceHolder id='PlaceHolderPageImage'  runat="server"></asp:ContentPlaceHolder>
         <asp:ContentPlaceHolder id='PlaceHolderPageDescription'   runat="server"></asp:ContentPlaceHolder>
