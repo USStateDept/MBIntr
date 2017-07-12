@@ -35,6 +35,8 @@
     <link href="../../_layouts/STYLES/main.css" rel="stylesheet" />
     <link href="../../_layouts/STYLES/responsive.css" rel="stylesheet" />
 
+    <script type="text/javascript" >var loginName = "<%= Microsoft.SharePoint.SPContext.Current.Web.CurrentUser.Name %>" ;</script>
+
 	<!-- Fonts -->
 	<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900" rel="stylesheet">
 
@@ -63,7 +65,8 @@
 		<div class="gb-topbar bg-white">
 			<div class="container">
 				<ul class="gb-list topbar-left list-inline pull-left">
-					<li><span><i class="fa fa-envelope-open-o color-red" aria-hidden="true"></i></span> <a href="#">touch@yourmail.com</a></li>
+					<li>
+                        <a href="#"> <script type="text/javascript" >document.write(loginName);</script></a></li>
 					<li><span><i class="fa fa-phone color-red" aria-hidden="true"></i></span> +1 -234 - 567 - 890</li>
 				</ul>
 				<div class="gb-search pull-right">
@@ -85,7 +88,9 @@
 							<span class="icon-bar"></span>
 							<span class="icon-bar"></span>
 						</button>
-						<a class="navbar-brand" href="index.html"><img class="img-responsive" src="images/logo.png" alt="Logo"></a>
+						<a class="navbar-brand" href="index.html"><img class="img-responsive" src="../../_layouts/images/MissionBrazil-Sharepoint-Theme/logo.png" alt="Logo"></a>
+                        
+
 					</div><!-- /.navbar-header -->
 
 					<div class="collapse navbar-collapse navbar-right" id="navbar-collapse">
@@ -111,20 +116,20 @@
 				</div><!-- /.container -->					
 			</nav><!-- /.navbar -->										
 		</div><!-- /.gb-menu -->
-		
+        
 		<div id="home" class="gb-home-slider">	
 			<div id="home-carousel" class="carousel slide" data-ride="carousel">
 				<div class="carousel-inner" role="listbox">
-					<div class="item active" style=" background-image: url(images/bg/slider1.jpg)">
+					<div class="item active" style=" background-image: url(../../_layouts/images/MissionBrazil-Sharepoint-Theme/bg/slider1.jpg)">
 						<div class="container">
 							<div class="item-content">
 								<div class="gb-middle">
 									<div class="slider-info">
 										<h1 data-animation="animated pulse">Welcome to</h1>
-										<h2 data-animation="animated pulse">Deem business world</h2>
+										<h2 data-animation="animated pulse">U.S. Embassy Brasilia</h2>
 										<p data-animation="animated pulse">Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius.</p>
 										<div class="buttons" data-animation="animated pulse">
-											<a href="#" class="btn"><span>Start Business</span></a>
+											<a href="#" class="btn"><span>Start Navigate</span></a>
 											<a href="#" class="btn learn-more"><span>Learn More</span></a>
 										</div>
 									</div>
@@ -132,16 +137,16 @@
 							</div><!-- /.item-content -->
 						</div>							
 					</div><!-- /.item -->
-					<div class="item" style=" background-image: url(images/bg/slider2.jpg)">
+					<div class="item" style=" background-image: url(../../_layouts/images/MissionBrazil-Sharepoint-Theme/bg/slider2.jpg)">
 						<div class="container">
 							<div class="item-content">
 								<div class="gb-middle">
 									<div class="slider-info">
-										<h1 data-animation="animated pulse">Welcome to</h1>
-										<h2 data-animation="animated pulse">Deem business world</h2>
+										<h1 data-animation="animated pulse">Next Week, </h1>
+										<h2 data-animation="animated pulse">4th July</h2>
 										<p data-animation="animated pulse">Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius.</p>
 										<div class="buttons" data-animation="animated pulse">
-											<a href="#" class="btn"><span>Start Business</span></a>
+											<a href="#" class="btn"><span>Visit and see</span></a>
 											<a href="#" class="btn learn-more"><span>Learn More</span></a>
 										</div>
 									</div>
@@ -153,11 +158,11 @@
 						<div class="container">
 							<div class="gb-middle">
 								<div class="slider-info">
-									<h1 data-animation="animated pulse">Welcome to</h1>
-									<h2 data-animation="animated pulse">Deem business world</h2>
+									<h1 data-animation="animated pulse">Posts </h1>
+									<h2 data-animation="animated pulse">Over the Mission</h2>
 									<p data-animation="animated pulse">Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius.</p>
 									<div class="buttons" data-animation="animated pulse">
-										<a href="#" class="btn"><span>Start Business</span></a>
+										<a href="#" class="btn"><span>Start Here</span></a>
 										<a href="#" class="btn learn-more"><span>Learn More</span></a>
 									</div>
 								</div>
@@ -211,7 +216,17 @@
 			<div class="container">
 				<div class="title-section">
 					<h1 class="color-red">About Us</h1>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac augue at erat hendrerit dictum. Praesent porta, purus eget sagittis imperdiet.</p>
+					<p>
+
+                        The U.S. Embassy in Brasilia
+
+The United States Embassy was the first to be established in Brasília. The Embassy site, which was donated by the Brazilian Government, was officially selected by Secretary of State John Foster Dulles when he visited Brasília in 1958 in the company of President Kubitschek. The site was first occupied in 1960 by a portable house trailer. President Eisenhower laid the symbolic cornerstone of the Embassy Chancery during his visit to Brazil on February 23, 1960.
+<br />
+The Embassy officially opened for business in the Brasília Palace Hotel early in 1960 and moved to the “provisional” Chancery in March 1961. Officially inaugurated in April 1961, the original chancery building was designed by the U.S. firm of McLeod and Ferrera.
+<br />
+Construction of the expanded chancery building began in 1972. Designed by U.S. architects and engineers Henningson, Durham, and Richardson, the two-story structure features simple modern lines with a facade of white Vermont marble. Roberto Burle Marx planned the landscaping for the Embassy courtyards as well as the garden area in front of the Embassy.
+
+					</p>
 				</div>
 				<div class="row">
 					<div class="col-sm-6">
@@ -922,7 +937,9 @@
 							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac augue at erat hendrerit dictum. </p>
 							<address>
 								<p><span>Address :</span> 982/2  New Havilton, USA</p>
-								<p><span>Email :</span> <a href="#">touch@yourmail.com</a></p>
+								<p><span>Email :</span> 
+                                   
+								</p>
 								<p><span>Phone :</span> +1 - 012 - 345 -6789</p>
 							</address>
 							<ul class="contact-social gb-list">
@@ -962,7 +979,7 @@
 						</form>						
 					</div>
 				</div><!-- /.row -->
-			</div><!-- /.container -->
+			</div><!-- /.container -->e
 		</div><!-- /.gb-contact-section -->	
 
 		<div class="gb-gmap">

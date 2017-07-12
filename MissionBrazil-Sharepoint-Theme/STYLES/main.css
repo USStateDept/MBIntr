@@ -1,8 +1,5 @@
 /*
-	Template Name: Deem
-    Template URL: http://template.gridbootstrap.com/deem/
-	Author: GridBootstrap
-	Author URI : http://gridbootstrap.com/
+	
     Version: 1.0
     Description: Multiporpose Responsive HTML Template for corporate business.
 	Tag: HTML5, CSS3, jQuery, Responsive, corporate, business, onepage, Template.
@@ -70,7 +67,7 @@ input:focus {
 }
 
 a:hover {
-	color: #ed1c24;
+	color: #0072bc;
 }
 
 a:active,
@@ -92,14 +89,14 @@ button {
 
 .btn {
 	font-size: 14px;
-	color: #ed1c24;
+	color: #0072bc;
 	font-weight: 700;
 	padding: 15px 30px;
 	border-radius: 4px;
 	text-transform: uppercase;
 	background-color: transparent;
-	border-color: #ed1c24;
-	border:1px solid #ed1c24;
+	border-color: #0072bc;
+	border:1px solid #0072bc;
 	display: inline-block;
 	position: relative;
 	overflow: hidden;
@@ -115,7 +112,7 @@ button {
     top: 0;
     width: 25.25%;
     height: 0;
-    background-color: #ed1c24;
+    background-color: #0072bc;
     z-index: -1;
 }
 
@@ -153,7 +150,7 @@ button {
 }
 
 .color-red {
-	color: #ed1c24;
+	color: #0072bc;
 }
 
 .gb-list {
@@ -216,7 +213,7 @@ button {
 }
 
 .white-color .btn:hover {
-	color: #ed1c24;
+	color: #0072bc;
 }
 
 .gb-parallax{
@@ -246,7 +243,7 @@ button {
 	content: "";
 	width: 275px;
 	height: 5px;
-	background-color: #ed1c24;
+	background-color: #0072bc;
 }
 
 .before-after:before {
@@ -316,7 +313,7 @@ button {
 }
 
 .widget a:hover {
-	color: #ed1c24;
+	color: #0072bc;
 }
 
 .widget ul li a {
@@ -349,7 +346,7 @@ button {
 }
 
 .gb-topbar li a:hover {
-	color: #ed1c24;
+	color: #0072bc;
 }
 
 .gb-topbar li i {
@@ -383,7 +380,7 @@ button {
 	right:12px;
 	margin-top: -11px;
 	font-size: 14px;
-	color: #ed1c24;
+	color: #0072bc;
 }
 
 /* Gb Menu */
@@ -420,7 +417,7 @@ button {
 .navbar-default .navbar-nav li a:hover, 
 .navbar-default .navbar-nav li a:focus {
 	color: #fff;
-	background-color: #ed1c24;
+	background-color: #0072bc;
 }
 
 .navbar-default .navbar-nav>li {
@@ -481,7 +478,7 @@ button {
 }
 
 .gb-dropdown-menu li.active a {
-	background-color: #ed1c24;
+	background-color: #0072bc;
 }
 
 /* Navbar Toggle CSS */
@@ -551,14 +548,14 @@ button {
 }
 
 .slider-info .btn {
-	background-color: #ed1c24;
-	border-color: #ed1c24;
+	background-color: #0072bc;
+	border-color: #0072bc;
 	color: #fff;
 }
 
 .slider-info .btn:hover {
 	border-color: #fff;
-	color: #ed1c24;
+	color: #0072bc;
 }
 
 .slider-info .btn:before, 
@@ -578,12 +575,12 @@ button {
 .slider-info .btn.learn-more:after, 
 .slider-info .btn.learn-more span:before, 
 .slider-info .btn.learn-more span:after {
-	background-color: #ed1c24;
+	background-color: #0072bc;
 }
 
 .slider-info .btn.learn-more:hover {
 	color: #fff;
-	border-color: #ed1c24;
+	border-color: #0072bc;
 }
 
 .carousel-indicators li,
@@ -606,7 +603,7 @@ button {
 }
 
 .carousel-indicators li.active {
-	background-color: #ed1c24;
+	background-color: #0072bc;
 }
 
 .carousel-indicators li:before {
@@ -621,7 +618,7 @@ button {
 }
 
 .carousel-indicators li.active:before {
-	border-color: #ed1c24;
+	border-color: #0072bc;
 }
 
 
@@ -658,7 +655,7 @@ button {
 .brand-icon {
 	float: left;
 	font-size: 48px;
-	color: #ed1c24;
+	color: #0072bc;
 	margin-right: 25px;
 }
 
@@ -794,13 +791,13 @@ button {
 	line-height: 80px;
 	text-align: center;
 	border-radius: 100%;
-	background-color: #ed1c24;
-	border: 1px solid #ed1c24;
+	background-color: #0072bc;
+	border: 1px solid #0072bc;
 	margin-right: 15px;
 }
 
 .fun-fact-content>li:hover .fun-fact-icon {
-	color: #ed1c24;
+	color: #0072bc;
 	background-color: #fff;
 }
 
@@ -990,7 +987,7 @@ button {
 
 .work-slider .slick-prev:hover:before,
 .work-slider .slick-next:hover:before {
-	color: #ed1c24;
+	color: #0072bc;
 }
 
 .work-slider:hover .slick-prev,
@@ -1039,7 +1036,7 @@ button {
 }
 
 .testimonial-slider:hover .author {
-	border-color: #ed1c24;
+	border-color: #0072bc;
 }
 
 .testimonial .media-body {
@@ -1054,7 +1051,7 @@ button {
 	left: -20px;
 	width: 3px;
 	height: 55px;
-	background-color: #ed1c24;
+	background-color: #0072bc;
 }
 
 .testimonial-title {
@@ -1101,7 +1098,7 @@ button {
 }
 
 .slick-dots li.slick-active {
-	background-color: #ed1c24;
+	background-color: #0072bc;
 }
 
 .slick-dots li:before {
@@ -1111,12 +1108,12 @@ button {
 	left: -3px;
 	width: 14px;
 	height: 14px;
-	border: 1px solid #ed1c24;
+	border: 1px solid #0072bc;
 	border-radius: 100%;
 }
 
 .slick-dots li:hover {
-	background-color: #ed1c24;
+	background-color: #0072bc;
 }
 
 .testimonial-slider {
@@ -1245,7 +1242,7 @@ li.sticky-post,
 }
 
 .entry-title a:hover {
-	color: #ed1c24;
+	color: #0072bc;
 }
 
 .entry-content .btn {
@@ -1293,7 +1290,7 @@ li.sticky-post,
 	height: 50px;
 	border-radius: 0;
 	font-size: 14px;
-	color: #ed1c24;
+	color: #0072bc;
 	padding: 5px 25px;
 	font-weight: 400;
 	text-transform: inherit;
@@ -1307,7 +1304,7 @@ li.sticky-post,
 
 .cta-info .gb-form .btn:hover {
 	color: #fff;
-	background-color: #ed1c24;
+	background-color: #0072bc;
 }
 
 .cta-info .form-control::-webkit-input-placeholder { /* Chrome/Opera/Safari */
@@ -1385,7 +1382,7 @@ li.sticky-post,
 
 .gb-price.active .btn {
 	color: #fff;
-	background-color: #ed1c24;
+	background-color: #0072bc;
 }
 
 .gb-price.active .btn:before,
@@ -1396,7 +1393,7 @@ li.sticky-post,
 }
 
 .gb-price.active .btn:hover {
-	color: #ed1c24;
+	color: #0072bc;
 }
 
 
@@ -1436,7 +1433,7 @@ li.sticky-post,
 }
 
 .faq-section ul li:hover .faq-title {
-	color: #ed1c24;	
+	color: #0072bc;	
 }
 
 
@@ -1527,7 +1524,7 @@ li.sticky-post,
 }
 
 .member-image:after {
-	border: 1px solid #ed1c24;
+	border: 1px solid #0072bc;
     -webkit-transform: scale(0);
     -moz-transform: scale(0);
     -ms-transform: scale(0);
@@ -1605,7 +1602,7 @@ li.sticky-post,
 }
 
 .get-in-touch a:hover {
-	color: #ed1c24;
+	color: #0072bc;
 }
 
 .get-in-touch span {
@@ -1633,7 +1630,7 @@ li.sticky-post,
 }
 
 .form-control:focus {
-	border-color: #ed1c24;
+	border-color: #0072bc;
 }
 
 textarea.form-control {
@@ -1740,7 +1737,7 @@ textarea.form-control {
 }
 
 .breadcrumb li a:hover {
-	color: #ed1c24;
+	color: #0072bc;
 }
 
 /* Pagination */
@@ -1769,8 +1766,8 @@ textarea.form-control {
 .pagination>.active>span:focus, 
 .pagination>.active>span:hover {
 	color: #fff;
-	background-color: #ed1c24;
-	border-color: #ed1c24;
+	background-color: #0072bc;
+	border-color: #0072bc;
 }
 
 .pagination>li:first-child>a, 
@@ -1802,7 +1799,7 @@ textarea.form-control {
 
 .widget_search .btn:hover,
 .widget_search .btn:focus {
-	color: #ed1c24;
+	color: #0072bc;
 	background-color: transparent;
 }
 
@@ -1844,8 +1841,8 @@ textarea.form-control {
 
 .tag-cloud a:hover {
 	color: #fff;
-	background-color: #ed1c24;
-	border-color: #ed1c24;
+	background-color: #0072bc;
+	border-color: #0072bc;
 }
 
 /* Blog Details */
@@ -1909,7 +1906,7 @@ textarea.form-control {
 }
 
 .entry-meta li a:hover {
-	color: #ed1c24;
+	color: #0072bc;
 }
 
 blockquote {
@@ -1918,7 +1915,7 @@ blockquote {
 	line-height: 24px;
 	font-style: italic;
 	background-color: #f7f7f7;
-	border-left-color: #ed1c24;
+	border-left-color: #0072bc;
 	padding: 25px 40px;
 	margin: 35px 0 45px;
 }
@@ -1951,7 +1948,7 @@ blockquote {
 }
 
 .add-comments .form-control:focus {
-	border-color: #ed1c24;
+	border-color: #0072bc;
 }
 
 .gb-previuos-next {
@@ -1974,7 +1971,7 @@ blockquote {
 }
 
 .gb-previuos-next a:hover {
-	color: #ed1c24;
+	color: #0072bc;
 }
 
 .gb-previuos-next .previuos {
@@ -2051,7 +2048,7 @@ blockquote {
 }
 
 .comment-box .comment-meta a:hover {
-	color: #ed1c24;
+	color: #0072bc;
 }
 
 .post-comment .children {
