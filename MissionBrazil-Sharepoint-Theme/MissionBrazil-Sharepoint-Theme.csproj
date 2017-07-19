@@ -76,7 +76,9 @@
       <SharePointProjectItemId>{4304f4d3-7727-41f4-b6f4-df5e730d7807}</SharePointProjectItemId>
     </None>
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="STYLES\fonts\" />
+  </ItemGroup>
   <ItemGroup>
     <Content Include="Features\Feature1\Feature1.Template.xml">
       <DependentUpon>Feature1.feature</DependentUpon>
@@ -90,6 +92,10 @@
     <Content Include="Images\MissionBrazil-Sharepoint-Theme\bg\slider1.jpg" />
     <Content Include="Images\MissionBrazil-Sharepoint-Theme\bg\slider2.jpg" />
     <Content Include="Images\MissionBrazil-Sharepoint-Theme\bg\slider3.jpg" />
+    <Content Include="Images\MissionBrazil-Sharepoint-Theme\blog\1.jpg" />
+    <Content Include="Images\MissionBrazil-Sharepoint-Theme\blog\2.jpg" />
+    <Content Include="Images\MissionBrazil-Sharepoint-Theme\blog\3.jpg" />
+    <Content Include="Images\MissionBrazil-Sharepoint-Theme\blog\4.jpg" />
     <Content Include="Images\MissionBrazil-Sharepoint-Theme\ico\apple-touch-icon-114-precomposed.png" />
     <Content Include="Images\MissionBrazil-Sharepoint-Theme\ico\apple-touch-icon-144-precomposed.png" />
     <Content Include="Images\MissionBrazil-Sharepoint-Theme\ico\apple-touch-icon-57-precomposed.png" />
@@ -97,7 +103,30 @@
     <Content Include="Images\MissionBrazil-Sharepoint-Theme\ico\favicon.ico" />
     <Content Include="Images\MissionBrazil-Sharepoint-Theme\IRM-Annoucements.png" />
     <Content Include="Images\MissionBrazil-Sharepoint-Theme\logo.png" />
+    <Content Include="Images\MissionBrazil-Sharepoint-Theme\others\about.jpg" />
+    <Content Include="Images\MissionBrazil-Sharepoint-Theme\others\author1.png" />
+    <Content Include="Images\MissionBrazil-Sharepoint-Theme\others\author2.png" />
+    <Content Include="Images\MissionBrazil-Sharepoint-Theme\others\author3.png" />
+    <Content Include="Images\MissionBrazil-Sharepoint-Theme\others\author4.png" />
+    <Content Include="Images\MissionBrazil-Sharepoint-Theme\others\author5.png" />
+    <Content Include="Images\MissionBrazil-Sharepoint-Theme\others\laptop.png" />
+    <Content Include="Images\MissionBrazil-Sharepoint-Theme\others\map-icon.png" />
     <Content Include="Images\MissionBrazil-Sharepoint-Theme\preloader.gif" />
+    <Content Include="Images\MissionBrazil-Sharepoint-Theme\team\1.jpg" />
+    <Content Include="Images\MissionBrazil-Sharepoint-Theme\team\2.jpg" />
+    <Content Include="Images\MissionBrazil-Sharepoint-Theme\team\3.jpg" />
+    <Content Include="Images\MissionBrazil-Sharepoint-Theme\team\4.jpg" />
+    <Content Include="Images\MissionBrazil-Sharepoint-Theme\work\1.jpg" />
+    <Content Include="Images\MissionBrazil-Sharepoint-Theme\work\2.jpg" />
+    <Content Include="Images\MissionBrazil-Sharepoint-Theme\work\3.jpg" />
+    <Content Include="Images\MissionBrazil-Sharepoint-Theme\work\4.jpg" />
+    <Content Include="Images\MissionBrazil-Sharepoint-Theme\work\5.jpg" />
+    <Content Include="Images\MissionBrazil-Sharepoint-Theme\work\6.jpg" />
+    <Content Include="Images\MissionBrazil-Sharepoint-Theme\work\7.jpg" />
+    <Content Include="Images\MissionBrazil-Sharepoint-Theme\work\8.jpg" />
+    <Content Include="Images\MissionBrazil-Sharepoint-Theme\work\details1.jpg" />
+    <Content Include="Images\MissionBrazil-Sharepoint-Theme\work\details2.jpg" />
+    <Content Include="Images\MissionBrazil-Sharepoint-Theme\work\details3.jpg" />
     <Content Include="Layouts\MissionBrazil-Sharepoint-Theme\bootstrap.min.js" />
     <Content Include="Layouts\MissionBrazil-Sharepoint-Theme\counterup.min.js" />
     <Content Include="Layouts\MissionBrazil-Sharepoint-Theme\gmaps.min.js" />

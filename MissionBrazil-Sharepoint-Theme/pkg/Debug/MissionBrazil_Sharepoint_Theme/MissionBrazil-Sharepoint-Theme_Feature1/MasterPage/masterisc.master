@@ -35,7 +35,7 @@
     <link href="../../_layouts/STYLES/main.css" rel="stylesheet" />
     <link href="../../_layouts/STYLES/responsive.css" rel="stylesheet" />
 
-    <script type="text/javascript" >var loginName = "<%= Microsoft.SharePoint.SPContext.Current.Web.CurrentUser.Name %>" ;</script>
+    <script type="text/javascript">var loginName = "<%= Microsoft.SharePoint.SPContext.Current.Web.CurrentUser.Name %>" ;</script>
 
 	<!-- Fonts -->
 	<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900" rel="stylesheet">
@@ -88,7 +88,7 @@
 							<span class="icon-bar"></span>
 							<span class="icon-bar"></span>
 						</button>
-						<a class="navbar-brand" href="index.html"><img class="img-responsive" src="../../_layouts/images/MissionBrazil-Sharepoint-Theme/logo.png" alt="Logo"></a>
+						<a class="navbar-brand" href="default.aspx"><img class="img-responsive" src="../../_layouts/images/MissionBrazil-Sharepoint-Theme/logo.png" alt="Logo"></a>
                         
 
 					</div><!-- /.navbar-header -->
@@ -154,7 +154,7 @@
 							</div><!-- /.item-content -->
 						</div>							
 					</div><!-- /.item -->
-					<div class="item" style=" background-image: url(images/bg/slider3.jpg)">
+					<div class="item" style=" background-image: url(../../_layouts/images/MissionBrazil-Sharepoint-Theme/bg/slider3.jpg)">
 						<div class="container">
 							<div class="gb-middle">
 								<div class="slider-info">
@@ -239,7 +239,8 @@ Construction of the expanded chancery building began in 1972. Designed by U.S. a
 					</div>
 					<div class="col-sm-6">
 						<div class="about-image">
-							<img src="images/others/about.jpg" alt="Image" class="img-responsive">
+
+							<img src="../../_layouts/images/MissionBrazil-Sharepoint-Theme/others/about.jpg" alt="Image" class="img-responsive">
 						</div>
 					</div>
 				</div><!-- /.row -->
@@ -358,7 +359,7 @@ Construction of the expanded chancery building began in 1972. Designed by U.S. a
 			</div><!-- /.container -->
 			<div class="work-slider text-left white-color">
 				<div class="work">
-					<img src="images/work/1.jpg" alt="Img" class="img-responsive">
+					<img src="../../_layouts/images/MissionBrazil-Sharepoint-Theme/work/1.jpg" alt="Img" class="img-responsive">
 					<div class="work-info">
 						<h2>Outdoor Works</h2>
 						<span>Company project</span>
@@ -373,7 +374,7 @@ Construction of the expanded chancery building began in 1972. Designed by U.S. a
 					</div>
 				</div>
 				<div class="work">
-					<img src="images/work/2.jpg" alt="Img" class="img-responsive">
+					<img src="../../_layouts/images/MissionBrazil-Sharepoint-Theme/work/2.jpg" alt="Img" class="img-responsive">
 					<div class="work-info">
 						<h2>Outdoor Works</h2>
 						<span>Company project</span>
@@ -388,7 +389,7 @@ Construction of the expanded chancery building began in 1972. Designed by U.S. a
 					</div>
 				</div>
 				<div class="work">
-					<img src="images/work/3.jpg" alt="Img" class="img-responsive">
+					<img src="../../_layouts/images/MissionBrazil-Sharepoint-Theme/work/3.jpg" alt="Img" class="img-responsive">
 					<div class="work-info">
 						<h2>Outdoor Works</h2>
 						<span>Company project</span>
@@ -403,7 +404,7 @@ Construction of the expanded chancery building began in 1972. Designed by U.S. a
 					</div>
 				</div>
 				<div class="work">
-					<img src="images/work/4.jpg" alt="Img" class="img-responsive">
+					<img src="../../_layouts/images/MissionBrazil-Sharepoint-Theme/work/4.jpg" alt="Img" class="img-responsive">
 					<div class="work-info">
 						<h2>Outdoor Works</h2>
 						<span>Company project</span>
@@ -418,7 +419,7 @@ Construction of the expanded chancery building began in 1972. Designed by U.S. a
 					</div>
 				</div>
 				<div class="work">
-					<img src="images/work/5.jpg" alt="Img" class="img-responsive">
+					<img src="../../_layouts/images/MissionBrazil-Sharepoint-Theme/work/5.jpg" alt="Img" class="img-responsive">
 					<div class="work-info">
 						<h2>Outdoor Works</h2>
 						<span>Company project</span>
@@ -433,7 +434,7 @@ Construction of the expanded chancery building began in 1972. Designed by U.S. a
 					</div>
 				</div>
 				<div class="work">
-					<img src="images/work/6.jpg" alt="Img" class="img-responsive">
+					<img src="../../_layouts/images/MissionBrazil-Sharepoint-Theme/work/6.jpg" alt="Img" class="img-responsive">
 					<div class="work-info">
 						<h2>Outdoor Works</h2>
 						<span>Company project</span>
@@ -448,7 +449,7 @@ Construction of the expanded chancery building began in 1972. Designed by U.S. a
 					</div>
 				</div>
 				<div class="work">
-					<img src="images/work/7.jpg" alt="Img" class="img-responsive">
+					<img src="../../_layouts/images/MissionBrazil-Sharepoint-Theme/work/7.jpg" alt="Img" class="img-responsive">
 					<div class="work-info">
 						<h2>Outdoor Works</h2>
 						<span>Company project</span>
@@ -463,7 +464,7 @@ Construction of the expanded chancery building began in 1972. Designed by U.S. a
 					</div>
 				</div>
 				<div class="work">
-					<img src="images/work/8.jpg" alt="Img" class="img-responsive">
+					<img src="../../_layouts/images/MissionBrazil-Sharepoint-Theme/work/8.jpg" alt="Img" class="img-responsive">
 					<div class="work-info">
 						<h2>Outdoor Works</h2>
 						<span>Company project</span>
@@ -494,7 +495,7 @@ Construction of the expanded chancery building began in 1972. Designed by U.S. a
 						<div class="testimonial-slider">
 							<div class="testimonial">
 								<div class="author">
-									<img src="images/others/author1.png" alt="Image" class="img-responsive img-circle">
+									<img src="../../_layouts/images/MissionBrazil-Sharepoint-Theme/others/author1.png" alt="Image" class="img-responsive img-circle">
 								</div>
 								<div class="media-body">
 									<p>Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores.</p>
@@ -506,7 +507,7 @@ Construction of the expanded chancery building began in 1972. Designed by U.S. a
 							</div>
 							<div class="testimonial">
 								<div class="author">
-									<img src="images/others/author2.png" alt="Image" class="img-responsive img-circle">
+									<img src="../../_layouts/images/MissionBrazil-Sharepoint-Theme/others/author2.png" alt="Image" class="img-responsive img-circle">
 								</div>
 								<div class="media-body">
 									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac augue at erat hendrerit dictum. Praesent porta, purus eget sagittis.</p>
@@ -518,7 +519,7 @@ Construction of the expanded chancery building began in 1972. Designed by U.S. a
 							</div>
 							<div class="testimonial">
 								<div class="author">
-									<img src="images/others/author3.png" alt="Image" class="img-responsive img-circle">
+									<img src="../../_layouts/images/MissionBrazil-Sharepoint-Theme/others/author3.png" alt="Image" class="img-responsive img-circle">
 								</div>
 								<div class="media-body">
 									<p>Mauris tristique feugiat nisi id hendrerit. Pellentesque ut neque augue. Nam eleifend rhoncus hendrerit. Aliquam ullamcorper urna ut metus eleifend.</p>
@@ -549,7 +550,7 @@ Construction of the expanded chancery building began in 1972. Designed by U.S. a
 					</div>
 					<div class="col-sm-5">
 						<div class="cta-image text-center">
-							<img src="images/others/laptop.png" alt="Image" class="img-responsive">
+							<img src="../../_layouts/images/MissionBrazil-Sharepoint-Theme/others/laptop.png" alt="Image" class="img-responsive">
 						</div>
 					</div>
 				</div><!-- /.row -->
@@ -567,7 +568,7 @@ Construction of the expanded chancery building began in 1972. Designed by U.S. a
 						<div class="gb-post">
 							<div class="entry-header">
 								<div class="entry-thumbnail">
-									<a href="blog-details.html"><img src="images/blog/1.jpg" alt="Image" class="img-responsive"></a>
+									<a href="blog-details.html"><img src="../../_layouts/images/MissionBrazil-Sharepoint-Theme/blog/1.jpg" alt="Image" class="img-responsive"></a>
 								</div>
 							</div>
 							<div class="entry-content">
@@ -586,7 +587,7 @@ Construction of the expanded chancery building began in 1972. Designed by U.S. a
 						<div class="gb-post">
 							<div class="entry-header">
 								<div class="entry-thumbnail">
-									<a href="blog-details.html"><img src="images/blog/2.jpg" alt="Image" class="img-responsive"></a>
+									<a href="blog-details.html"><img src="../../_layouts/images/MissionBrazil-Sharepoint-Theme/blog/2.jpg" alt="Image" class="img-responsive"></a>
 								</div>
 							</div>
 							<div class="entry-content">
@@ -605,7 +606,7 @@ Construction of the expanded chancery building began in 1972. Designed by U.S. a
 						<div class="gb-post">
 							<div class="entry-header">
 								<div class="entry-thumbnail">
-									<a href="blog-details.html"><img src="images/blog/3.jpg" alt="Image" class="img-responsive"></a>
+									<a href="blog-details.html"><img src="../../_layouts/images/MissionBrazil-Sharepoint-Theme/blog/3.jpg" alt="Image" class="img-responsive"></a>
 								</div>
 							</div>
 							<div class="entry-content">
@@ -814,7 +815,7 @@ Construction of the expanded chancery building began in 1972. Designed by U.S. a
 				<div class="team-slider">
 					<div class="team-member">
 						<div class="member-image">
-							<img src="images/team/1.jpg" alt="Image" class="img-responsive img-circle">
+							<img src="../../_layouts/images/MissionBrazil-Sharepoint-Theme/team/1.jpg" alt="Image" class="img-responsive img-circle">
 							<div class="team-overlay">
 								<div class="team-social">
 									<ul class="list-inline">
@@ -832,7 +833,7 @@ Construction of the expanded chancery building began in 1972. Designed by U.S. a
 					</div>	
 					<div class="team-member">
 						<div class="member-image">
-							<img src="images/team/2.jpg" alt="Image" class="img-responsive img-circle">
+							<img src="../../_layouts/images/MissionBrazil-Sharepoint-Theme/team/2.jpg" alt="Image" class="img-responsive img-circle">
 							<div class="team-overlay">
 								<div class="team-social">
 									<ul class="list-inline">
@@ -850,7 +851,7 @@ Construction of the expanded chancery building began in 1972. Designed by U.S. a
 					</div>	
 					<div class="team-member">
 						<div class="member-image">
-							<img src="images/team/3.jpg" alt="Image" class="img-responsive img-circle">
+							<img src="../../_layouts/images/MissionBrazil-Sharepoint-Theme/team/3.jpg" alt="Image" class="img-responsive img-circle">
 							<div class="team-overlay">
 								<div class="team-social">
 									<ul class="list-inline">
@@ -868,7 +869,7 @@ Construction of the expanded chancery building began in 1972. Designed by U.S. a
 					</div>	
 					<div class="team-member">
 						<div class="member-image">
-							<img src="images/team/4.jpg" alt="Image" class="img-responsive img-circle">
+							<img src="../../_layouts/images/MissionBrazil-Sharepoint-Theme/team/4.jpg" alt="Image" class="img-responsive img-circle">
 							<div class="team-overlay">
 								<div class="team-social">
 									<ul class="list-inline">
@@ -886,7 +887,7 @@ Construction of the expanded chancery building began in 1972. Designed by U.S. a
 					</div>		
 					<div class="team-member">
 						<div class="member-image">
-							<img src="images/team/1.jpg" alt="Image" class="img-responsive img-circle">
+							<img src="../../_layouts/images/MissionBrazil-Sharepoint-Theme/team/1.jpg" alt="Image" class="img-responsive img-circle">
 							<div class="team-overlay">
 								<div class="team-social">
 									<ul class="list-inline">
@@ -904,7 +905,7 @@ Construction of the expanded chancery building began in 1972. Designed by U.S. a
 					</div>			
 					<div class="team-member">
 						<div class="member-image">
-							<img src="images/team/4.jpg" alt="Image" class="img-responsive img-circle">
+							<img src="../../_layouts/images/MissionBrazil-Sharepoint-Theme/team/4.jpg" alt="Image" class="img-responsive img-circle">
 							<div class="team-overlay">
 								<div class="team-social">
 									<ul class="list-inline">
