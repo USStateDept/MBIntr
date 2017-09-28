@@ -1,0 +1,1 @@
+bin\Release\MissionBrazil_Sharepoint_Theme.wsp

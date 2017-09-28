@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="30276c92-7904-49af-a421-dafcb37d1614" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="MissionBrazil-Sharepoint-Theme.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="Images\MissionBrazil-Sharepoint-Theme\bg\breadcrumb-bg.jpg" />
+    <TemplateFile Location="Images\MissionBrazil-Sharepoint-Theme\bg\parallax-1.jpg" />
+    <TemplateFile Location="Images\MissionBrazil-Sharepoint-Theme\bg\parallax-2.jpg" />
+    <TemplateFile Location="Images\MissionBrazil-Sharepoint-Theme\bg\parallax-3.jpg" />
+    <TemplateFile Location="Images\MissionBrazil-Sharepoint-Theme\bg\parallax-4.jpg" />
+    <TemplateFile Location="Images\MissionBrazil-Sharepoint-Theme\bg\parallax-5.jpg" />
+    <TemplateFile Location="Images\MissionBrazil-Sharepoint-Theme\bg\slider1.jpg" />
+    <TemplateFile Location="Images\MissionBrazil-Sharepoint-Theme\bg\slider2.jpg" />
+    <TemplateFile Location="Images\MissionBrazil-Sharepoint-Theme\bg\slider3.jpg" />
+    <TemplateFile Location="Images\MissionBrazil-Sharepoint-Theme\blog\1.jpg" />
+    <TemplateFile Location="Images\MissionBrazil-Sharepoint-Theme\blog\2.jpg" />
+    <TemplateFile Location="Images\MissionBrazil-Sharepoint-Theme\blog\3.jpg" />
+    <TemplateFile Location="Images\MissionBrazil-Sharepoint-Theme\blog\4.jpg" />
+    <TemplateFile Location="Images\MissionBrazil-Sharepoint-Theme\ico\apple-touch-icon-114-precomposed.png" />
+    <TemplateFile Location="Images\MissionBrazil-Sharepoint-Theme\ico\apple-touch-icon-144-precomposed.png" />
+    <TemplateFile Location="Images\MissionBrazil-Sharepoint-Theme\ico\apple-touch-icon-57-precomposed.png" />
+    <TemplateFile Location="Images\MissionBrazil-Sharepoint-Theme\ico\apple-touch-icon-72--precomposed.png" />
+    <TemplateFile Location="Images\MissionBrazil-Sharepoint-Theme\ico\favicon.ico" />
+    <TemplateFile Location="Images\MissionBrazil-Sharepoint-Theme\IRM-Annoucements.png" />
+    <TemplateFile Location="Images\MissionBrazil-Sharepoint-Theme\logo.png" />
+    <TemplateFile Location="Images\MissionBrazil-Sharepoint-Theme\others\about.jpg" />
+    <TemplateFile Location="Images\MissionBrazil-Sharepoint-Theme\others\author1.png" />
+    <TemplateFile Location="Images\MissionBrazil-Sharepoint-Theme\others\author2.png" />
+    <TemplateFile Location="Images\MissionBrazil-Sharepoint-Theme\others\author3.png" />
+    <TemplateFile Location="Images\MissionBrazil-Sharepoint-Theme\others\author4.png" />
+    <TemplateFile Location="Images\MissionBrazil-Sharepoint-Theme\others\author5.png" />
+    <TemplateFile Location="Images\MissionBrazil-Sharepoint-Theme\others\laptop.png" />
+    <TemplateFile Location="Images\MissionBrazil-Sharepoint-Theme\others\map-icon.png" />
+    <TemplateFile Location="Images\MissionBrazil-Sharepoint-Theme\preloader.gif" />
+    <TemplateFile Location="Images\MissionBrazil-Sharepoint-Theme\team\1.jpg" />
+    <TemplateFile Location="Images\MissionBrazil-Sharepoint-Theme\team\2.jpg" />
+    <TemplateFile Location="Images\MissionBrazil-Sharepoint-Theme\team\3.jpg" />
+    <TemplateFile Location="Images\MissionBrazil-Sharepoint-Theme\team\4.jpg" />
+    <TemplateFile Location="Images\MissionBrazil-Sharepoint-Theme\work\1.jpg" />
+    <TemplateFile Location="Images\MissionBrazil-Sharepoint-Theme\work\2.jpg" />
+    <TemplateFile Location="Images\MissionBrazil-Sharepoint-Theme\work\3.jpg" />
+    <TemplateFile Location="Images\MissionBrazil-Sharepoint-Theme\work\4.jpg" />
+    <TemplateFile Location="Images\MissionBrazil-Sharepoint-Theme\work\5.jpg" />
+    <TemplateFile Location="Images\MissionBrazil-Sharepoint-Theme\work\6.jpg" />
+    <TemplateFile Location="Images\MissionBrazil-Sharepoint-Theme\work\7.jpg" />
+    <TemplateFile Location="Images\MissionBrazil-Sharepoint-Theme\work\8.jpg" />
+    <TemplateFile Location="Images\MissionBrazil-Sharepoint-Theme\work\details1.jpg" />
+    <TemplateFile Location="Images\MissionBrazil-Sharepoint-Theme\work\details2.jpg" />
+    <TemplateFile Location="Images\MissionBrazil-Sharepoint-Theme\work\details3.jpg" />
+    <TemplateFile Location="LAYOUTS\MissionBrazil-Sharepoint-Theme\bootstrap.min.js" />
+    <TemplateFile Location="LAYOUTS\MissionBrazil-Sharepoint-Theme\counterup.min.js" />
+    <TemplateFile Location="LAYOUTS\MissionBrazil-Sharepoint-Theme\gmaps.min.js" />
+    <TemplateFile Location="LAYOUTS\MissionBrazil-Sharepoint-Theme\inview.min.js" />
+    <TemplateFile Location="LAYOUTS\MissionBrazil-Sharepoint-Theme\jquery.min.js" />
+    <TemplateFile Location="LAYOUTS\MissionBrazil-Sharepoint-Theme\jquery.parallax.js" />
+    <TemplateFile Location="LAYOUTS\MissionBrazil-Sharepoint-Theme\magnific-popup.min.js" />
+    <TemplateFile Location="LAYOUTS\MissionBrazil-Sharepoint-Theme\main.js" />
+    <TemplateFile Location="LAYOUTS\MissionBrazil-Sharepoint-Theme\slick.min.js" />
+    <TemplateFile Location="LAYOUTS\MissionBrazil-Sharepoint-Theme\theia-sticky-sidebar.js" />
+    <TemplateFile Location="LAYOUTS\MissionBrazil-Sharepoint-Theme\waypoints.min.js" />
+    <TemplateFile Location="LAYOUTS\STYLES\fonts\fontawesome-webfont.ttf" />
+    <TemplateFile Location="LAYOUTS\STYLES\fonts\fontawesome-webfont.woff" />
+    <TemplateFile Location="LAYOUTS\STYLES\fonts\fontawesome-webfont.woff2" />
+    <TemplateFile Location="LAYOUTS\STYLES\fonts\FontAwesome.otf" />
+    <TemplateFile Location="LAYOUTS\STYLES\animate.css" />
+    <TemplateFile Location="LAYOUTS\STYLES\bootstrap.min.css" />
+    <TemplateFile Location="LAYOUTS\STYLES\font-awesome.min.css" />
+    <TemplateFile Location="LAYOUTS\STYLES\fonts\fontawesome-webfont.svg" />
+    <TemplateFile Location="LAYOUTS\STYLES\magnific-popup.css" />
+    <TemplateFile Location="LAYOUTS\STYLES\main.css" />
+    <TemplateFile Location="LAYOUTS\STYLES\responsive.css" />
+    <TemplateFile Location="LAYOUTS\STYLES\slick.css" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="MissionBrazil-Sharepoint-Theme_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

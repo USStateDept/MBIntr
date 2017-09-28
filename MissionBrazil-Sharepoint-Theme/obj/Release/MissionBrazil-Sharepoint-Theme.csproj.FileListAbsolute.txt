@@ -1,0 +1,14 @@
+C:\Users\braadmarcegarc\Source\Repos\MBIntr\MissionBrazil-Sharepoint-Theme\bin\Release\MissionBrazil-Sharepoint-Theme.dll
+C:\Users\braadmarcegarc\Source\Repos\MBIntr\MissionBrazil-Sharepoint-Theme\bin\Release\MissionBrazil-Sharepoint-Theme.pdb
+C:\Users\braadmarcegarc\Source\Repos\MBIntr\MissionBrazil-Sharepoint-Theme\bin\Release\Microsoft.SharePoint.dll
+C:\Users\braadmarcegarc\Source\Repos\MBIntr\MissionBrazil-Sharepoint-Theme\bin\Release\Microsoft.SharePoint.Search.dll
+C:\Users\braadmarcegarc\Source\Repos\MBIntr\MissionBrazil-Sharepoint-Theme\bin\Release\Microsoft.Web.CommandUI.dll
+C:\Users\braadmarcegarc\Source\Repos\MBIntr\MissionBrazil-Sharepoint-Theme\bin\Release\Microsoft.BusinessData.dll
+C:\Users\braadmarcegarc\Source\Repos\MBIntr\MissionBrazil-Sharepoint-Theme\bin\Release\Microsoft.SharePoint.Security.dll
+C:\Users\braadmarcegarc\Source\Repos\MBIntr\MissionBrazil-Sharepoint-Theme\bin\Release\Microsoft.SharePoint.xml
+C:\Users\braadmarcegarc\Source\Repos\MBIntr\MissionBrazil-Sharepoint-Theme\bin\Release\Microsoft.SharePoint.Search.xml
+C:\Users\braadmarcegarc\Source\Repos\MBIntr\MissionBrazil-Sharepoint-Theme\bin\Release\Microsoft.BusinessData.xml
+C:\Users\braadmarcegarc\Source\Repos\MBIntr\MissionBrazil-Sharepoint-Theme\bin\Release\Microsoft.SharePoint.Security.xml
+C:\Users\braadmarcegarc\Source\Repos\MBIntr\MissionBrazil-Sharepoint-Theme\obj\Release\MissionBrazil-Sharepoint-Theme.csprojResolveAssemblyReference.cache
+C:\Users\braadmarcegarc\Source\Repos\MBIntr\MissionBrazil-Sharepoint-Theme\obj\Release\MissionBrazil-Sharepoint-Theme.dll
+C:\Users\braadmarcegarc\Source\Repos\MBIntr\MissionBrazil-Sharepoint-Theme\obj\Release\MissionBrazil-Sharepoint-Theme.pdb

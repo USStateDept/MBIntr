@@ -25,3 +25,4 @@ C:\Users\braadmarcegarc\Source\Repos\MBIntr\MissionBrazil-Sharepoint-Theme\bin\D
 C:\Users\braadmarcegarc\Source\Repos\MBIntr\MissionBrazil-Sharepoint-Theme\bin\Debug\Microsoft.SharePoint.Security.xml
 C:\Users\braadmarcegarc\Source\Repos\MBIntr\MissionBrazil-Sharepoint-Theme\obj\Debug\MissionBrazil-Sharepoint-Theme.dll
 C:\Users\braadmarcegarc\Source\Repos\MBIntr\MissionBrazil-Sharepoint-Theme\obj\Debug\MissionBrazil-Sharepoint-Theme.pdb
+C:\Users\braadmarcegarc\Source\Repos\MBIntr\MissionBrazil-Sharepoint-Theme\obj\Debug\MissionBrazil-Sharepoint-Theme.csprojResolveAssemblyReference.cache

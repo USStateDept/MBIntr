@@ -55,6 +55,11 @@
     <None Include="Features\Feature1\Feature1.feature">
       <FeatureId>{007d95fa-1fb0-4e64-bc51-afb8f8df5e7d}</FeatureId>
     </None>
+    <None Include="fonts\fontawesome-webfont.eot" />
+    <None Include="fonts\fontawesome-webfont.ttf" />
+    <None Include="fonts\fontawesome-webfont.woff" />
+    <None Include="fonts\fontawesome-webfont.woff2" />
+    <None Include="fonts\FontAwesome.otf" />
     <None Include="Images\SharePointProjectItem.spdata">
       <SharePointProjectItemId>{fd46d944-4c2d-47d5-93b3-f5f90ce347d0}</SharePointProjectItemId>
     </None>
@@ -72,17 +77,22 @@
     <None Include="Package\Package.Template.xml">
       <DependentUpon>Package.package</DependentUpon>
     </None>
+    <None Include="STYLES\fonts\fontawesome-webfont.ttf" />
+    <None Include="STYLES\fonts\fontawesome-webfont.woff" />
+    <None Include="STYLES\fonts\fontawesome-webfont.woff2" />
+    <None Include="STYLES\fonts\FontAwesome.otf" />
     <None Include="STYLES\SharePointProjectItem.spdata">
       <SharePointProjectItemId>{4304f4d3-7727-41f4-b6f4-df5e730d7807}</SharePointProjectItemId>
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="STYLES\fonts\" />
+    <Folder Include="Layouts\MissionBrazil-Sharepoint-Theme\fonts\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Features\Feature1\Feature1.Template.xml">
       <DependentUpon>Feature1.feature</DependentUpon>
     </Content>
+    <Content Include="fonts\fontawesome-webfont.svg" />
     <Content Include="Images\MissionBrazil-Sharepoint-Theme\bg\breadcrumb-bg.jpg" />
     <Content Include="Images\MissionBrazil-Sharepoint-Theme\bg\parallax-1.jpg" />
     <Content Include="Images\MissionBrazil-Sharepoint-Theme\bg\parallax-2.jpg" />
@@ -144,6 +154,7 @@
     <Content Include="STYLES\animate.css" />
     <Content Include="STYLES\bootstrap.min.css" />
     <Content Include="STYLES\font-awesome.min.css" />
+    <Content Include="STYLES\fonts\fontawesome-webfont.svg" />
     <Content Include="STYLES\magnific-popup.css" />
     <Content Include="STYLES\main.css" />
     <Content Include="STYLES\responsive.css" />

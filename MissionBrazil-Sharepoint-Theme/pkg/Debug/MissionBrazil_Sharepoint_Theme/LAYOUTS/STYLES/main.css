@@ -170,7 +170,7 @@ button {
 .title-section {
 	color: #8f8f8f;
 	line-height: 24px;
-	max-width: 600px;
+	max-width: 1200px;
 	display: inline-block;
 	margin-bottom: 65px;
 }
@@ -673,7 +673,7 @@ button {
 .about-info {
 	color: #333;
 	font-weight: 300;
-	max-width: 480px;
+	max-width: 1200px;
 }
 
 .about-info>span {
